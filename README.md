@@ -6,5 +6,5 @@ This project aims to create distinctions that will have the potential to identif
 ### DATASET
 
 This project uses information provided by Kaggle. This data contains features that define job posting. These postings are classified as true or false. Fraudulent deployment is a small fraction of this database.
-[Go to here to Download the dataset](https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction)
+[Click here to Download the dataset](https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction)
 
